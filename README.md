@@ -11,7 +11,7 @@
 5. Levantar la base de datos
 
 ```
-docker-compose up -dd
+docker-compose up -d
 ```
 
 6. Levantar:
